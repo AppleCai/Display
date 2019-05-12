@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/ws/client_prokey/build",
+  "command": "D:\\MinGW81\\mingw32\\bin\\g++.exe   @CMakeFiles/main.dir/includes_CXX.rsp -g   -std=c++11 -o CMakeFiles\\main.dir\\main.cpp.obj -c D:\\ws\\client_prokey\\main.cpp",
+  "file": "D:/ws/client_prokey/main.cpp"
+}
+]

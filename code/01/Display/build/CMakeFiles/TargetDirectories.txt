@@ -1,0 +1,3 @@
+D:/ws/server_prokey_new/build/CMakeFiles/edit_cache.dir
+D:/ws/server_prokey_new/build/CMakeFiles/main.dir
+D:/ws/server_prokey_new/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,17 @@
+[
+{
+  "directory": "D:/ws/server_prokey_new/build",
+  "command": "D:\\MinGW81\\mingw32\\bin\\g++.exe   @CMakeFiles/main.dir/includes_CXX.rsp -g   -std=c++11 -o CMakeFiles\\main.dir\\main.cpp.obj -c D:\\ws\\server_prokey_new\\main.cpp",
+  "file": "D:/ws/server_prokey_new/main.cpp"
+},
+{
+  "directory": "D:/ws/server_prokey_new/build",
+  "command": "D:\\MinGW81\\mingw32\\bin\\g++.exe   @CMakeFiles/main.dir/includes_CXX.rsp -g   -std=c++11 -o CMakeFiles\\main.dir\\server.cpp.obj -c D:\\ws\\server_prokey_new\\server.cpp",
+  "file": "D:/ws/server_prokey_new/server.cpp"
+},
+{
+  "directory": "D:/ws/server_prokey_new/build",
+  "command": "D:\\MinGW81\\mingw32\\bin\\g++.exe   @CMakeFiles/main.dir/includes_CXX.rsp -g   -std=c++11 -o CMakeFiles\\main.dir\\key.cpp.obj -c D:\\ws\\server_prokey_new\\key.cpp",
+  "file": "D:/ws/server_prokey_new/key.cpp"
+}
+]
