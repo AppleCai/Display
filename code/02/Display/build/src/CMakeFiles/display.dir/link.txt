@@ -1,0 +1,2 @@
+D:\MinGW81\mingw32\bin\ar.exe qc libdisplay.a  CMakeFiles/display.dir/HMI.cpp.obj CMakeFiles/display.dir/ctrl.cpp.obj CMakeFiles/display.dir/display.cpp.obj CMakeFiles/display.dir/key.cpp.obj CMakeFiles/display.dir/lock.cpp.obj CMakeFiles/display.dir/server.cpp.obj
+D:\MinGW81\mingw32\bin\ranlib.exe libdisplay.a

@@ -1,0 +1,1 @@
+ -LD:/opencv341/VScodebuild/install/x86/mingw/bin src/libdisplay.a -lws2_32 -lopencv_core341 -lopencv_imgcodecs341 -lopencv_highgui341 -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

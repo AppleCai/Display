@@ -1,0 +1,27 @@
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  "CXX"
+  )
+# The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_CXX
+  "D:/ws/server_prokey_newV2.2/src/HMI.cpp" "D:/ws/server_prokey_newV2.2/build/src/CMakeFiles/display.dir/HMI.cpp.obj"
+  "D:/ws/server_prokey_newV2.2/src/ctrl.cpp" "D:/ws/server_prokey_newV2.2/build/src/CMakeFiles/display.dir/ctrl.cpp.obj"
+  "D:/ws/server_prokey_newV2.2/src/display.cpp" "D:/ws/server_prokey_newV2.2/build/src/CMakeFiles/display.dir/display.cpp.obj"
+  "D:/ws/server_prokey_newV2.2/src/key.cpp" "D:/ws/server_prokey_newV2.2/build/src/CMakeFiles/display.dir/key.cpp.obj"
+  "D:/ws/server_prokey_newV2.2/src/lock.cpp" "D:/ws/server_prokey_newV2.2/build/src/CMakeFiles/display.dir/lock.cpp.obj"
+  "D:/ws/server_prokey_newV2.2/src/server.cpp" "D:/ws/server_prokey_newV2.2/build/src/CMakeFiles/display.dir/server.cpp.obj"
+  )
+set(CMAKE_CXX_COMPILER_ID "GNU")
+
+# The include file search paths:
+set(CMAKE_CXX_TARGET_INCLUDE_PATH
+  "D:/opencv341/VScodebuild/install/include"
+  "../include"
+  )
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

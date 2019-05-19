@@ -1,0 +1,37 @@
+[
+{
+  "directory": "D:/ws/server_prokey_newV2.2/build",
+  "command": "D:\\MinGW81\\mingw32\\bin\\g++.exe   @CMakeFiles/main.dir/includes_CXX.rsp -g   -std=c++11 -o CMakeFiles\\main.dir\\main.cpp.obj -c D:\\ws\\server_prokey_newV2.2\\main.cpp",
+  "file": "D:/ws/server_prokey_newV2.2/main.cpp"
+},
+{
+  "directory": "D:/ws/server_prokey_newV2.2/build/src",
+  "command": "D:\\MinGW81\\mingw32\\bin\\g++.exe   @CMakeFiles/display.dir/includes_CXX.rsp -g   -std=c++11 -o CMakeFiles\\display.dir\\HMI.cpp.obj -c D:\\ws\\server_prokey_newV2.2\\src\\HMI.cpp",
+  "file": "D:/ws/server_prokey_newV2.2/src/HMI.cpp"
+},
+{
+  "directory": "D:/ws/server_prokey_newV2.2/build/src",
+  "command": "D:\\MinGW81\\mingw32\\bin\\g++.exe   @CMakeFiles/display.dir/includes_CXX.rsp -g   -std=c++11 -o CMakeFiles\\display.dir\\ctrl.cpp.obj -c D:\\ws\\server_prokey_newV2.2\\src\\ctrl.cpp",
+  "file": "D:/ws/server_prokey_newV2.2/src/ctrl.cpp"
+},
+{
+  "directory": "D:/ws/server_prokey_newV2.2/build/src",
+  "command": "D:\\MinGW81\\mingw32\\bin\\g++.exe   @CMakeFiles/display.dir/includes_CXX.rsp -g   -std=c++11 -o CMakeFiles\\display.dir\\display.cpp.obj -c D:\\ws\\server_prokey_newV2.2\\src\\display.cpp",
+  "file": "D:/ws/server_prokey_newV2.2/src/display.cpp"
+},
+{
+  "directory": "D:/ws/server_prokey_newV2.2/build/src",
+  "command": "D:\\MinGW81\\mingw32\\bin\\g++.exe   @CMakeFiles/display.dir/includes_CXX.rsp -g   -std=c++11 -o CMakeFiles\\display.dir\\key.cpp.obj -c D:\\ws\\server_prokey_newV2.2\\src\\key.cpp",
+  "file": "D:/ws/server_prokey_newV2.2/src/key.cpp"
+},
+{
+  "directory": "D:/ws/server_prokey_newV2.2/build/src",
+  "command": "D:\\MinGW81\\mingw32\\bin\\g++.exe   @CMakeFiles/display.dir/includes_CXX.rsp -g   -std=c++11 -o CMakeFiles\\display.dir\\lock.cpp.obj -c D:\\ws\\server_prokey_newV2.2\\src\\lock.cpp",
+  "file": "D:/ws/server_prokey_newV2.2/src/lock.cpp"
+},
+{
+  "directory": "D:/ws/server_prokey_newV2.2/build/src",
+  "command": "D:\\MinGW81\\mingw32\\bin\\g++.exe   @CMakeFiles/display.dir/includes_CXX.rsp -g   -std=c++11 -o CMakeFiles\\display.dir\\server.cpp.obj -c D:\\ws\\server_prokey_newV2.2\\src\\server.cpp",
+  "file": "D:/ws/server_prokey_newV2.2/src/server.cpp"
+}
+]
