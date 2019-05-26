@@ -10,7 +10,7 @@ Vscode mingw下opencv及多线程C++socket—Apple的学习笔记
 	工程共享路径: https://github.com/AppleCai/Display
 
 设计说明：详见Design文件夹中的word说明文档
-目前已经更新为0.2版本，对应code在02文件夹中。变更说明
+20190519更新为0.2版本，对应code在02文件夹中。变更说明
 
 	1. 重新设计了交互协议。对于接收头及数据的解析使用了状态模式设计。
 	2. 添加了心跳检测功能：server每隔1s发给client，client检查若5s内没收到则断开连接。
@@ -20,3 +20,9 @@ Vscode mingw下opencv及多线程C++socket—Apple的学习笔记
 		socket主要用来传输命令和数据。
 		控制模块主要控制是否正常传输数据，是否传输心跳数据命令，是否暂停显示。
 		key主要扫描s键(是否暂停传输)，j键（是否暂停显示）
+
+20190526更新为0.3版本，对应code在03文件夹中。变更说明
+	1. 将Server端的接收改成select异步模式，使能断线后重连。
+	2. 通过opencv图片叠加，添加logo及接收到的帧进行计数，显示页数。故增加了pic文件夹。
+	3. 移植到POSIX平台进行开发。
+	4. 对应client的测试code在进行sokect重新connect时候，使用了select异步IO模型，设置timeout为1s，加快了重连速度减少阻塞时间。
