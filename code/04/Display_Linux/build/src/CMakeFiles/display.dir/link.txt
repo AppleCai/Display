@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdisplay.a  CMakeFiles/display.dir/HMI.cpp.o CMakeFiles/display.dir/ctrl.cpp.o CMakeFiles/display.dir/display.cpp.o CMakeFiles/display.dir/key.cpp.o CMakeFiles/display.dir/lock.cpp.o CMakeFiles/display.dir/server.cpp.o
+/usr/bin/ranlib libdisplay.a

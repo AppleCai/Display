@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/home/applec/study/display/servV4.3/build",
+  "command": "/usr/bin/g++-4.8   -I/home/applec/study/display/servV4.3/include -isystem /usr/local/include -isystem /usr/local/include/opencv  -g   -std=c++11 -o CMakeFiles/main.dir/main.cpp.o -c /home/applec/study/display/servV4.3/main.cpp",
+  "file": "/home/applec/study/display/servV4.3/main.cpp"
+},
+{
+  "directory": "/home/applec/study/display/servV4.3/build/src",
+  "command": "/usr/bin/g++-4.8   -I/home/applec/study/display/servV4.3/include  -g   -std=c++11 -o CMakeFiles/display.dir/HMI.cpp.o -c /home/applec/study/display/servV4.3/src/HMI.cpp",
+  "file": "/home/applec/study/display/servV4.3/src/HMI.cpp"
+},
+{
+  "directory": "/home/applec/study/display/servV4.3/build/src",
+  "command": "/usr/bin/g++-4.8   -I/home/applec/study/display/servV4.3/include  -g   -std=c++11 -o CMakeFiles/display.dir/ctrl.cpp.o -c /home/applec/study/display/servV4.3/src/ctrl.cpp",
+  "file": "/home/applec/study/display/servV4.3/src/ctrl.cpp"
+},
+{
+  "directory": "/home/applec/study/display/servV4.3/build/src",
+  "command": "/usr/bin/g++-4.8   -I/home/applec/study/display/servV4.3/include  -g   -std=c++11 -o CMakeFiles/display.dir/display.cpp.o -c /home/applec/study/display/servV4.3/src/display.cpp",
+  "file": "/home/applec/study/display/servV4.3/src/display.cpp"
+},
+{
+  "directory": "/home/applec/study/display/servV4.3/build/src",
+  "command": "/usr/bin/g++-4.8   -I/home/applec/study/display/servV4.3/include  -g   -std=c++11 -o CMakeFiles/display.dir/key.cpp.o -c /home/applec/study/display/servV4.3/src/key.cpp",
+  "file": "/home/applec/study/display/servV4.3/src/key.cpp"
+},
+{
+  "directory": "/home/applec/study/display/servV4.3/build/src",
+  "command": "/usr/bin/g++-4.8   -I/home/applec/study/display/servV4.3/include  -g   -std=c++11 -o CMakeFiles/display.dir/lock.cpp.o -c /home/applec/study/display/servV4.3/src/lock.cpp",
+  "file": "/home/applec/study/display/servV4.3/src/lock.cpp"
+},
+{
+  "directory": "/home/applec/study/display/servV4.3/build/src",
+  "command": "/usr/bin/g++-4.8   -I/home/applec/study/display/servV4.3/include  -g   -std=c++11 -o CMakeFiles/display.dir/server.cpp.o -c /home/applec/study/display/servV4.3/src/server.cpp",
+  "file": "/home/applec/study/display/servV4.3/src/server.cpp"
+}
+]
